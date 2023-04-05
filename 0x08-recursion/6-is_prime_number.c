@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prime_a - returns 1 if the input integer is a prime number, otherwise return 0
+ * prime_a - MAin Entry
  * @a: input
  * @b: input
  * Return: 0
